@@ -1,0 +1,7 @@
+Here is some information about the insurance.txt file which will be used for the
+porfolio project:
+
+There is no missing data in the csv file.
+there are 7 columns.
+some columns are numerical while some are categorical.
+
